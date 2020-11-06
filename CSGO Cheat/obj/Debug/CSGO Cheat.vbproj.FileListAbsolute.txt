@@ -1,0 +1,19 @@
+C:\Users\User\source\repos\CSGO Cheat\CSGO Cheat\obj\Debug\CSGO Cheat.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\CSGO Cheat\CSGO Cheat\obj\Debug\CSGO_Cheat.Form1.resources
+C:\Users\User\source\repos\CSGO Cheat\CSGO Cheat\obj\Debug\CSGO_Cheat.Inject.resources
+C:\Users\User\source\repos\CSGO Cheat\CSGO Cheat\obj\Debug\CSGO_Cheat.Resources.resources
+C:\Users\User\source\repos\CSGO Cheat\CSGO Cheat\obj\Debug\CSGO Cheat.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\CSGO Cheat\CSGO Cheat\obj\Debug\CSGO Cheat.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSGO Cheat\CSGO Cheat\obj\Debug\CSGO_Cheat.Aimbot.resources
+C:\Users\User\source\repos\CSGO Cheat\CSGO Cheat\obj\Debug\CSGO_Cheat.Visual.resources
+C:\Users\User\source\repos\CSGO Cheat\CSGO Cheat\obj\Debug\CSGO_Cheat.TOS.resources
+C:\Users\User\source\repos\CSGO Cheat\CSGO Cheat\obj\Debug\CSGO_Cheat.Settings.resources
+C:\Users\User\source\repos\CSGO Cheat\CSGO Cheat\obj\Debug\CSGO_Cheat.World.resources
+C:\Users\User\source\repos\CSGO Cheat\CSGO Cheat\bin\Debug\CSGO Destroyer Beta.exe.config
+C:\Users\User\source\repos\CSGO Cheat\CSGO Cheat\bin\Debug\CSGO Destroyer Beta.exe
+C:\Users\User\source\repos\CSGO Cheat\CSGO Cheat\bin\Debug\CSGO Destroyer Beta.pdb
+C:\Users\User\source\repos\CSGO Cheat\CSGO Cheat\bin\Debug\CSGO Destroyer Beta.xml
+C:\Users\User\source\repos\CSGO Cheat\CSGO Cheat\obj\Debug\CSGO Destroyer Beta.exe
+C:\Users\User\source\repos\CSGO Cheat\CSGO Cheat\obj\Debug\CSGO Destroyer Beta.xml
+C:\Users\User\source\repos\CSGO Cheat\CSGO Cheat\obj\Debug\CSGO Destroyer Beta.pdb
+C:\Users\User\source\repos\CSGO Cheat\CSGO Cheat\obj\Debug\CSGO_Cheat.Credits.resources
